@@ -25,6 +25,10 @@ header {
     border-bottom: 1px solid #e5e5e5;
 }
 
+ol, ul {
+    list-style-position: inside;
+}
+
 .container {
     width: min(1100px, 90%);
     margin: 0 auto;
